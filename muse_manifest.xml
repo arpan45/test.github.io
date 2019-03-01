@@ -1,0 +1,47 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.amvice.com" resolutions="1x" timestamp="1549797289986">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4129140181" ref="index:about:contact-us"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:about:contact-us"/>
+    <file name="index.css" crc="306150044" ref="index"/>
+    <file name="nomq_index.css" crc="218410035" ref="index"/>
+    <file name="about.css" crc="18497750" ref="about"/>
+    <file name="nomq_about.css" crc="263390272" ref="about"/>
+    <file name="contact-us.css" crc="348564106" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="430594066" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact-us:about"/>
+    <file name="museutils.js" crc="3803043152" ref="index:contact-us:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact-us:about"/>
+    <file name="museconfig.js" crc="380897831" ref="index:contact-us:about"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:contact-us:about"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:contact-us:about"/>
+    <file name="webpro.js" crc="242022427" ref="index:contact-us:about"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:contact-us:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact-us:about"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:contact-us:about"/>
+    <file name="require.js" crc="4157109226" ref="index:contact-us:about"/>
+  </folder>
+  <folder name="images">
+    <file name="amvice.jpg" crc="3818107036" seo="true" ref="index:contact-us:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contact-us:about"/>
+    <file name="ambulance.jpg" crc="4273564208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wapp.png" crc="3833277759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="512934777" seo="true" mt="1549797239556" redirect="true"/>
+  <file name="contact-us.html" crc="3889031449" seo="true" mt="1549790625067" redirect="true"/>
+  <file name="about.html" crc="4147372810" seo="true" mt="1549790625067" redirect="true"/>
+</manifest>
