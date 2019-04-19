@@ -57,7 +57,7 @@ Shihan Neil is author of ["Defend Yourself With Japanese Jiu-Jitsu"](https://www
 **Self Defense Seminars, group or private lessons are available. [Please contact us at greatertorontojj@gmail.com](/contact)**
 
 The Canadian Japanese Jiu-Jitsu Alliance is a governing body, whose aim is to promote excellence in Japanese Jiu-Jitsu. Training seminars and promotions are available throughout Canada to all martial artists who share our passion with Japanese Jiu-Jitsu.
-<br>![Self Defense image](/images/selfdefence1.jpg){: width="300px" height="300px"}  ![Self Defense image](/images/selfdefence2.jpg){: width="300px" height="300px"}  ![Self Defense image](/images/Selfdefence3.jpg){: width="300px"}
+<br>![Self Defense image](/images/selfdefence1.jpg){: width="300px" height="300px"}  ![Self Defense image](/images/selfdefence3.jpg){: width="300px" height="300px"}  ![Self Defense image](/images/Selfdefence2.jpg){: width="300px" height="300px"}
 <br>
 <br>
 
