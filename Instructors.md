@@ -20,11 +20,11 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 Neil holds many National Coaching Certifications and has coached athletes who have become National team members and Olympic medalists.
 <br>
 Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- <strong>CJJA</strong> and also operates <strong>MMA U</strong>, which provides excellence in personal safety/self defense instruction.
-
+Neil is the author of the book <a href="https://www.amazon.ca/dp/0228801060/ref=cm_sw_r_cp_apa_i_HjqUCb0PM39YQ">Defend Yourself With Japanese Jiu-Jitsu" (Buy Now From Amazon)</a>
 </div>
 </div>
 
-Neil is the author of the book **["Defend Yourself With Japanese Jiu-Jitsu" (Buy Now From Amazon)](https://www.amazon.ca/dp/0228801060/ref=cm_sw_r_cp_apa_i_HjqUCb0PM39YQ)**
+
 <br>
 <br>
 
