@@ -54,8 +54,10 @@ Both [Shihan Neil and Renshi Tony](/Instructors) worked closely with the Toronto
 <br>
 Shihan Neil is author of **["Defend Yourself With Japanese Jiu-Jitsu" (Buy Now From Amazon)](https://www.amazon.ca/dp/0228801060/ref=cm_sw_r_cp_apa_i_HjqUCb0PM39YQ)**. This self defense book is available through Amazon.ca or contact **greatertorontojj@gmail.com** for your copies.
 <br>
-![Self Defense image](/images/selfdefence1.jpg){: width="300px" height="300px"}     ![Self Defense image](/images/Selfdefence3.jpg){: width="300px" height="300px"}     ![Self Defense image](/images/selfdefence2.jpg){: width="300px" height="300px"}
 
+
+![Self Defense image](/images/selfdefence1.jpg){: width="300px" height="300px"}     ![Self Defense image](/images/Selfdefence3.jpg){: width="300px" height="300px"}     ![Self Defense image](/images/selfdefence2.jpg){: width="300px" height="300px"}
+<>
 
 **Self Defense Seminars, group or private lessons are available. [Please contact us at greatertorontojj@gmail.com](/contact)**
 
