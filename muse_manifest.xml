@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arpan45.github.io" resolutions="1x" timestamp="1568633291005">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arpan45.github.io" resolutions="1x" timestamp="1568633471410">
   <folder name="css">
     <file name="site_global.css" crc="505201334"/>
-    <file name="index.css" crc="371609024" ref="index"/>
-    <file name="nomq_index.css" crc="4198021124" ref="index"/>
+    <file name="index.css" crc="370760876" ref="index"/>
+    <file name="nomq_index.css" crc="209701057" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -68,14 +68,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="linkedin_circle-512.png" crc="4137917214" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="about-us.png" crc="172300086" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -105,5 +97,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="495287406" seo="true" mt="1568633268949" redirect="true"/>
+  <file name="index.html" crc="437269646" seo="true" mt="1568633454373" redirect="true"/>
 </manifest>
