@@ -44,5 +44,8 @@
     <image:image>
       <image:loc>http://arpan45.github.io/images/hero299x122.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/linkedin_circle-512.png</image:loc>
+    </image:image>
   </url>
 </urlset>
