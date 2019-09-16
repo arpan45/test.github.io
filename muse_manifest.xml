@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arpan45.github.io" resolutions="1x" timestamp="1568641294314">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arpan45.github.io" resolutions="1x" timestamp="1568641443986">
   <folder name="css">
     <file name="site_global.css" crc="505201334"/>
     <file name="index.css" crc="4047728253" ref="index"/>
@@ -128,5 +128,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3927036030" seo="true" mt="1568641284539" redirect="true"/>
+  <file name="index.html" crc="3844078064" seo="true" mt="1568641432931" redirect="true"/>
 </manifest>
