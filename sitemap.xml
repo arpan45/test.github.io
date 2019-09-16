@@ -47,5 +47,14 @@
     <image:image>
       <image:loc>http://arpan45.github.io/images/linkedin_circle-512.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/home-banner411x193.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/home-right273x265.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/hero261x107.png</image:loc>
+    </image:image>
   </url>
 </urlset>
