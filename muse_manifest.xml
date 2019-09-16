@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arpan45.github.io" resolutions="1x" timestamp="1568631998922">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arpan45.github.io" resolutions="1x" timestamp="1568632238337">
   <folder name="css">
     <file name="site_global.css" crc="505201334"/>
-    <file name="index.css" crc="384989229" ref="index"/>
+    <file name="index.css" crc="23185250" ref="index"/>
     <file name="nomq_index.css" crc="174182722" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -108,5 +108,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="111330500" seo="true" mt="1568631972701" redirect="true"/>
+  <file name="index.html" crc="3934728477" seo="true" mt="1568632188674" redirect="true"/>
 </manifest>
