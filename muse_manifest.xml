@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arpan45.github.io" resolutions="1x" timestamp="1568641113836">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arpan45.github.io" resolutions="1x" timestamp="1568641294314">
   <folder name="css">
     <file name="site_global.css" crc="505201334"/>
-    <file name="index.css" crc="3923873494" ref="index"/>
-    <file name="nomq_index.css" crc="3974345014" ref="index"/>
+    <file name="index.css" crc="4047728253" ref="index"/>
+    <file name="nomq_index.css" crc="18636097" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -128,5 +128,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="408114339" seo="true" mt="1568641097746" redirect="true"/>
+  <file name="index.html" crc="3927036030" seo="true" mt="1568641284539" redirect="true"/>
 </manifest>
