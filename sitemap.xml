@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://arpan45.github.io/index.html</loc>
+    <lastmod>2019-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/home-banner.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/home-right.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/fiv_logo_green-circle@2x%20(1)_press_image_1557946866.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/code-collaboration-github-network-round-social-icon-1320086084536018107.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/linkedin_circle-512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/about-us.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/hero.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/about-us234x215.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/home-banner519x243.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/home-right344x335.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/hero330x134.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
