@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arpan45.github.io" resolutions="1x" timestamp="1568631225878">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arpan45.github.io" resolutions="1x" timestamp="1568631998922">
   <folder name="css">
     <file name="site_global.css" crc="505201334"/>
-    <file name="index.css" crc="29193820" ref="index"/>
-    <file name="nomq_index.css" crc="3793035909" ref="index"/>
+    <file name="index.css" crc="384989229" ref="index"/>
+    <file name="nomq_index.css" crc="174182722" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -33,8 +33,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="skype.png" crc="4267061425" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -49,14 +57,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="code-collaboration-github-network-round-social-icon-1320086084536018107.png" crc="3943749494" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="linkedin_circle-512.png" crc="4011686130" seo="true" ref="index">
+    <file name="linkedin_circle-512.png" crc="475555526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -81,6 +95,18 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="about-us212x195.png" crc="4138173917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-banner470x220.png" crc="260810711" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-right312x303.png" crc="3999287361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero299x122.png" crc="4011194947" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4008722723" seo="true" mt="1568631216810" redirect="true"/>
+  <file name="index.html" crc="111330500" seo="true" mt="1568631972701" redirect="true"/>
 </manifest>

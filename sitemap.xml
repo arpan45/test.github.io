@@ -38,5 +38,17 @@
     <image:image>
       <image:loc>http://arpan45.github.io/images/hero330x134.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/about-us212x195.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/home-banner470x220.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/home-right312x303.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arpan45.github.io/images/hero299x122.png</image:loc>
+    </image:image>
   </url>
 </urlset>
