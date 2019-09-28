@@ -1,2 +1,4 @@
 plugins:
   - jekyll-seo-tag
+author:
+  twitter: arpanadhikari9
