@@ -1,7 +1,7 @@
 # Site settings
 title: Arpan Adhikari - Full Stack Developer
 description: Programmer, Developer, Entrepreneur.I design and code beautifully simple things, and I love what I do
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
