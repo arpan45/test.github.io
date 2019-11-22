@@ -564,32 +564,25 @@ pre code {
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
-    width: 100%;
-    height: auto;
+
   }
 }
 
 @media (min-width: 768px) {
   .container {
     max-width: 720px;
-    width: 100%;
-    height: auto;
   }
 }
 
 @media (min-width: 992px) {
   .container {
     max-width: 960px;
-    width: 100%;
-    height: auto;
   }
 }
 
 @media (min-width: 1200px) {
   .container {
     max-width: 1140px;
-    width: 100%;
-    height: auto;
   }
 }
 
@@ -9628,7 +9621,7 @@ hr.light {
 @media (min-width: 992px) {
   #mainNav {
     box-shadow: none;
-    background-color: transparent;
+    background-color: #fff;
   }
   #mainNav .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
