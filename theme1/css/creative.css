@@ -10,10 +10,7 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
- #logo-container img {
-   width: 100%;
-   height: auto;
-}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -558,6 +555,7 @@ pre code {
 
 .container {
   width: 100%;
+  height: auto;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
