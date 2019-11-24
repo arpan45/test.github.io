@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "nb_sides": 5
         },
         "image": {
-          "src": "img/github.svg",
+          "src": "/assets/img/mountains.jpg",
           "width": 100,
           "height": 100
         }
